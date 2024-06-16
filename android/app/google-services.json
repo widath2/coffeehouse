@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084865498277",
+    "project_id": "cofoo-3a98f",
+    "storage_bucket": "cofoo-3a98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084865498277:android:79df1ffaffc4b8e00b914c",
+        "android_client_info": {
+          "package_name": "com.example.finalmad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDfKrcUT2PJLLXly7uAKKlSIHxAOZQBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
